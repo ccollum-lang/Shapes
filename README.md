@@ -10,9 +10,7 @@ Step 3) Once the program has gathered the required information from the user, it
 Step 4) The program asks for the users desired action.
 
 Step 5) If the user selects to output the list of shapes they have created, the program will display the shape in the following format: 
-      (X, Y, Z) (Area of Circle)
-      (X, Y, Z) /Area of Triangle\
-      (X, Y, Z) [Area of Rectangle]
+(X, Y, Z) (Area of Circle) | (X, Y, Z) /Area of Triangle\ | (X, Y, Z) [Area of Rectangle]
 
 Step 6) The program asks for the user's desired input.
 
